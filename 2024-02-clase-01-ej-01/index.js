@@ -24,16 +24,16 @@ else {
 }
 
 // Otra forma
-// Pregunta primero si es mayor al mínimo
+// Pregunta primero si es mayor al mínimo-------------------
 //if (num >= min) {
-    //Si lo anterior no se dio, se hace la otra pregunta
+    //Si lo anterior no se dio, se hace la otra pregunta-------------------------
     //if (num <= max) {
-        // Está en rango
+        // Está en rango-------------
     //}
     //else {
-        // No está en rango
+        // No está en rango-------------
     //}
 //}
 //else {
-    // No está en rango
+    // No está en rango-------------
 //}
